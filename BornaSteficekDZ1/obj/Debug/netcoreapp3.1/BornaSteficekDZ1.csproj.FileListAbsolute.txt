@@ -1,0 +1,9 @@
+C:\Users\Korisnik\source\repos\BornaSteficekDZ1\BornaSteficekDZ1\bin\Debug\netcoreapp3.1\BornaSteficekDZ1.deps.json
+C:\Users\Korisnik\source\repos\BornaSteficekDZ1\BornaSteficekDZ1\bin\Debug\netcoreapp3.1\BornaSteficekDZ1.dll
+C:\Users\Korisnik\source\repos\BornaSteficekDZ1\BornaSteficekDZ1\bin\Debug\netcoreapp3.1\BornaSteficekDZ1.pdb
+C:\Users\Korisnik\source\repos\BornaSteficekDZ1\BornaSteficekDZ1\obj\Debug\netcoreapp3.1\BornaSteficekDZ1.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\BornaSteficekDZ1\BornaSteficekDZ1\obj\Debug\netcoreapp3.1\BornaSteficekDZ1.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\BornaSteficekDZ1\BornaSteficekDZ1\obj\Debug\netcoreapp3.1\BornaSteficekDZ1.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\BornaSteficekDZ1\BornaSteficekDZ1\obj\Debug\netcoreapp3.1\BornaSteficekDZ1.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\BornaSteficekDZ1\BornaSteficekDZ1\obj\Debug\netcoreapp3.1\BornaSteficekDZ1.dll
+C:\Users\Korisnik\source\repos\BornaSteficekDZ1\BornaSteficekDZ1\obj\Debug\netcoreapp3.1\BornaSteficekDZ1.pdb
